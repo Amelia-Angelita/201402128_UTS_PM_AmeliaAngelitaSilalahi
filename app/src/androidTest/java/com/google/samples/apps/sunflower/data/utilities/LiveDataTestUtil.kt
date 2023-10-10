@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.sunflower.utilities
+package com.google.samples.apps.sunflower.data.utilities
 
 import androidx.lifecycle.LiveData
 import java.util.concurrent.CountDownLatch
